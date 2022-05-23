@@ -1,0 +1,9 @@
+JavaPoet的常用类
+1.TypeSpec————用于生成类、接口、枚举对象的类
+2.MethodSpec————用于生成方法对象的类
+3.ParameterSpec————用于生成参数对象的类
+4.AnnotationSpec————用于生成注解对象的类
+5.FieldSpec————用于配置生成成员变量的类
+6.ClassName————通过包名和类名生成的对象，在JavaPoet中相当于为其指定Class
+7.ParameterizedTypeName————通过MainClass和IncludeClass生成包含泛型的Class
+8.JavaFile————控制生成的Java文件的输出的类
